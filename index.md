@@ -1,6 +1,7 @@
-layout: normal
-
-title:トップページ
+﻿---
+layout: default
+title: トップページ
+---
 
 # テスト トップページです
 
