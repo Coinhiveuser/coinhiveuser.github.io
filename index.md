@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Coinhiveuserの記録
 ---

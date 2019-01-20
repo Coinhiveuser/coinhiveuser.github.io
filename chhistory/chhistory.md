@@ -1,13 +1,11 @@
----
+ï»¿---
 layout: default
-title: Coinhive”N•\
+title: Coinhiveå¹´è¡¨
 ---
 
-# Coinhive”N•\
+# Coinhiveå¹´è¡¨
 
-**H–’†**?
-
-
+**å·¥äº‹ä¸­**?
 
 
 
@@ -17,6 +15,8 @@ title: Coinhive”N•\
 
 
 
-### ‹L˜^ì¬‚Ö‚Ì‹¦—Í‚Ì‚¨Šè‚¢
 
-”N•\‚É”²‚¯/ŠÔˆá‚¢‚ª‚ ‚é‚æ! ‚±‚ê‚ğ’Ç‰Á‚µ‚Ä—~‚µ‚¢! ‚Æ‚¢‚Á‚½–‚ª‚ ‚è‚Ü‚µ‚½‚çA[twitter@coinhiveuser](https://twitter.com/coinhiveuser)‚ÌDM‚Ü‚Å‚²˜A—‰º‚³‚¢B
+
+### è¨˜éŒ²ä½œæˆã¸ã®å”åŠ›ã®ãŠé¡˜ã„
+
+å¹´è¡¨ã«æŠœã‘/é–“é•ã„ãŒã‚ã‚‹ã‚ˆ! ã“ã‚Œã‚’è¿½åŠ ã—ã¦æ¬²ã—ã„! ã¨ã„ã£ãŸäº‹ãŒã‚ã‚Šã¾ã—ãŸã‚‰ã€[twitter@coinhiveuser](https://twitter.com/coinhiveuser)ã®DMã¾ã§ã”é€£çµ¡ä¸‹ã•ã„ã€‚

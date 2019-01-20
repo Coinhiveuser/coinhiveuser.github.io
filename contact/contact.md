@@ -1,14 +1,14 @@
----
+ï»¿---
 layout: default
 title: Contact
 ---
 
 # Contact
 
-„E“–ƒTƒCƒg‚ÉŠÖ‚·‚é‚¨–â‚¢‡‚í‚¹‚Í
+ç§ãƒ»å½“ã‚µã‚¤ãƒˆã«é–¢ã™ã‚‹ãŠå•ã„åˆã‚ã›ã¯
 
 VHGad3WzZolyYx@protonmail.com
 
-–”‚Í
+åˆã¯
 
-[twitter:@coinhiveuser](https://twitter.com/coinhiveuser) ‚ÌDM‚Ü‚Å‚¨Šè‚¢‚¢‚½‚µ‚Ü‚·B
+[twitter:@coinhiveuser](https://twitter.com/coinhiveuser) ã®DMã¾ã§ãŠé¡˜ã„ã„ãŸã—ã¾ã™ã€‚
