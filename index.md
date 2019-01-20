@@ -1,19 +1,17 @@
-﻿---
+---
 layout: default
 title: Coinhiveuserの記録
 ---
 
 # 元Coinhiveユーザー@Coinhiveuser の記録 
 
-About
+**[About](https://coinhiveuser.github.io/about/about.html)**
 
-Coinhive年表
+**[Coinhive年表](https://coinhiveuser.github.io/chhistory/chhistory.html)**
 
-Coinhive裁判 傍聴記録まとめ
+**[Coinhive裁判 傍聴記録まとめ](https://coinhiveuser.github.io/chtrialreport/chtrialreport.html)**
 
-Contact
-
-Donation
+**[Contact](https://coinhiveuser.github.io/contact/contact.html)**
 
 
 

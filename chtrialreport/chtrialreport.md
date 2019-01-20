@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 傍聴記録
 ---
@@ -7,7 +7,7 @@ title: 傍聴記録
 
 * 記録公開済み
 
-第一回公判
+[第一回公判](https://coinhiveuser.github.io/chtrialreport/reports/1.html)
 
 
 
@@ -25,6 +25,8 @@ title: 傍聴記録
 2/18 10:00~ 横浜地裁 第401号法廷にて
 
 第四回公判(論告弁論, 最終弁論)
+
+
 
 
 
