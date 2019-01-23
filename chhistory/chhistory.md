@@ -32,7 +32,9 @@ title: Coinhive年表
 |          |                                                              |
 |          | (編集途中であるので、項目が追加される可能性もあります)       |
 
+<br/>
 
+<br/>
 
 ### 2018
 
@@ -46,9 +48,9 @@ title: Coinhive年表
 | 6/12    | モロさん、「[仮想通貨マイニング（Coinhive）で家宅捜索を受けた話](https://doocts.com/3403)」を公開 |
 | 6/17    | 高木先生、日記「[魔女狩り商法に翻弄された田舎警察 Coinhive事件 大本営報道はまさに現代の魔女狩りだ](https://takagi-hiromitsu.jp/diary/20180617.html)」を公開 |
 
+<br/>
 
-
-
+<br/>
 
 ### 2019
 
@@ -58,16 +60,16 @@ title: Coinhive年表
 | 1/15 | モロさんのCoinhive裁判、第二回公判(高木浩光先生 証人尋問) |
 | 1/17 | モロさんのCoinhive裁判、第三回公判(モロさん、被告人質問)  |
 
-
+<br/>
 
 #### 参考までに
 
 
 Coinhive後発のInwemo, Coinlab, Crypto root等の多くは既にサービスを終了している事が多く、アーカイブも多くは残されていない為、今からその機能について調査する事は難しい。
 
+<br/>
 
-
-
+<br/>
 
 ## Coinhiveの機能やウェブサイトに関しての推移
 
@@ -79,7 +81,7 @@ Coinhive後発のInwemo, Coinlab, Crypto root等の多くは既にサービス�
 | 9/15  | Internet Archive上に残された、最古のCoinhiveサイト(coin-hive.com)の[アーカイブ](https://web.archive.org/web/20170915182847/http://coin-hive.com/) |
 | 9/23  | coin-hive.com上から、A Real World Use Case, About Usの2項目や、テスト中・実験などの表現が削除された。ブログが追加された。[アーカイブ](https://web.archive.org/web/20170923162840/https://coin-hive.com/) |
 | 9/25  | スペルミスの修正                                             |
-| 9/28  | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　^1 |
+| 9/28  | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　[^1] |
 | 9/29  | httpでアクセスした際httpsへのリダイレクトされるようになる    |
 | 10/7  | フッターに変化、2017 coinhive.comだったものが2017 coinhiveになり、項目の並びが変わった上、Report Abuse(悪用の報告)が追加される。[アーカイブ](https://web.archive.org/web/20171007040629/https://coinhive.com/) |
 | 10/8  | See how we successfully use it on a community site. という文が削除される。 |
@@ -87,7 +89,7 @@ Coinhive後発のInwemo, Coinlab, Crypto root等の多くは既にサービス�
 |       |                                                              |
 |       | (2017/10/21までの, coin-hive.com coinhive.comトップページのみ調査済) |
 
-
+<br/>
 
 ### 2018
 
@@ -99,18 +101,22 @@ Coinhive後発のInwemo, Coinlab, Crypto root等の多くは既にサービス�
 
 
 
-
+<br/>
 
 Internet Archiveに関しては過去の記録間での差分を確認し、日々変化する日時やモネロのレート、得られる収益の参考値以外は上の図に反映している
 
-^1 当時どこかでcoin-hive.comはもう長くサポートしないから、スクリプト内のURLをcoinhive.comに書き換えるように という旨のお知らせを見かけたが、あれはアーカイブには残らないログイン後の画面にあったお知らせだったのか?
-
 (現在はまだ10/21以前のトップページ(coin-hive.com, coinhive.com)以外は調査していないので、更に後もしくは他ページでこの内容が書いてある可能性もある)
 
+[^1]: 当時どこかでcoin-hive.comはもう長くサポートしないから、スクリプト内のURLをcoinhive.comに書き換えるように という旨のお知らせを見かけたが、あれはアーカイブには残らないログイン後の画面にあったお知らせだったのか?
 
-
-
+<br/>
 
 ### 記録作成への協力のお願い
 
 年表に抜け/間違いがあるよ! これを追加して欲しい! といった事がありましたら、[twitter@coinhiveuser](https://twitter.com/coinhiveuser)のDMまでご連絡下さい。
+
+
+
+<br/>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />このウェブサイトのコンテンツは <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
