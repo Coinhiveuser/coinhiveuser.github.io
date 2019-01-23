@@ -34,8 +34,6 @@ title: Coinhive年表
 
 <br/>
 
-<br/>
-
 ### 2018
 
 | 日付    | 起こったこと                                                 |
@@ -47,8 +45,6 @@ title: Coinhive年表
 | 6/14    | 警察庁、「[仮想通貨を採掘するツール（マイニングツール）に関する注意喚起](https://www.npa.go.jp/cyber/policy/180614_2.html)」を公開 |
 | 6/12    | モロさん、「[仮想通貨マイニング（Coinhive）で家宅捜索を受けた話](https://doocts.com/3403)」を公開 |
 | 6/17    | 高木先生、日記「[魔女狩り商法に翻弄された田舎警察 Coinhive事件 大本営報道はまさに現代の魔女狩りだ](https://takagi-hiromitsu.jp/diary/20180617.html)」を公開 |
-
-<br/>
 
 <br/>
 
@@ -69,8 +65,6 @@ Coinhive後発のInwemo, Coinlab, Crypto root等の多くは既にサービス�
 
 <br/>
 
-<br/>
-
 ## Coinhiveの機能やウェブサイトに関しての推移
 
 ### 2017
@@ -81,7 +75,7 @@ Coinhive後発のInwemo, Coinlab, Crypto root等の多くは既にサービス�
 | 9/15  | Internet Archive上に残された、最古のCoinhiveサイト(coin-hive.com)の[アーカイブ](https://web.archive.org/web/20170915182847/http://coin-hive.com/) |
 | 9/23  | coin-hive.com上から、A Real World Use Case, About Usの2項目や、テスト中・実験などの表現が削除された。ブログが追加された。[アーカイブ](https://web.archive.org/web/20170923162840/https://coin-hive.com/) |
 | 9/25  | スペルミスの修正                                             |
-| 9/28  | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　[^1] |
+| 9/28  | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　[*1](#1) |
 | 9/29  | httpでアクセスした際httpsへのリダイレクトされるようになる    |
 | 10/7  | フッターに変化、2017 coinhive.comだったものが2017 coinhiveになり、項目の並びが変わった上、Report Abuse(悪用の報告)が追加される。[アーカイブ](https://web.archive.org/web/20171007040629/https://coinhive.com/) |
 | 10/8  | See how we successfully use it on a community site. という文が削除される。 |
@@ -107,7 +101,7 @@ Internet Archiveに関しては過去の記録間での差分を確認し、日�
 
 (現在はまだ10/21以前のトップページ(coin-hive.com, coinhive.com)以外は調査していないので、更に後もしくは他ページでこの内容が書いてある可能性もある)
 
-[^1]: 当時どこかでcoin-hive.comはもう長くサポートしないから、スクリプト内のURLをcoinhive.comに書き換えるように という旨のお知らせを見かけたが、あれはアーカイブには残らないログイン後の画面にあったお知らせだったのか?
+<a name="#1"></a>*1: 当時どこかでcoin-hive.comはもう長くサポートしないから、スクリプト内のURLをcoinhive.comに書き換えるように という旨のお知らせを見かけたが、あれはアーカイブには残らないログイン後の画面にあったお知らせだったのか?
 
 <br/>
 
