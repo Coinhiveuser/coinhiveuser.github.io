@@ -1,17 +1,111 @@
-﻿---
+---
 layout: default
 title: Coinhive年表
 ---
 
 # Coinhive年表
 
-**工事中**👷
+## Coinhive全体に関して
+
+### 2017
+
+| 日付     | 起こったこと                                                 |
+| -------- | ------------------------------------------------------------ |
+| 9/14     | Coinhive公開 (coin-hive.com)                                 |
+| 9/16     | The Pirate BayがCoinhiveを設置                               |
+| 9/18     | 広告ブロックフィルタリストであるadblock-nocoin-listがCoinhiveをブロック対象に追加([参考](https://twitter.com/280blocker/status/1084755700041928704)) |
+| 9/20     | GigazineがThe Pirate BayのCoinhiveについて取り上げた記事を公開 |
+| 9月下旬  | モロさんのCoinhive導入                                       |
+| 9/22     | モロさん、Coinhiveを導入してみた的な記事を公開(現在は削除済) |
+| 9/24     | Ublockのresource-abuse.txtにはこの日時点で既にブロックリストへの掲載がなされていた([参考](https://twitter.com/280blocker/status/1084755700041928704)) |
+| 同日     | Slashdot(スラド)の方でCoinhiveが話題となる                   |
+| 10/8     | 某有名ブロガーがCoinhive設置                                 |
+| 10/11    | 某有名ブロガーの件でCoinhiveが話題となり、ITmediaがCoinhiveについての記事公開 |
+| 10/16    | AuthedMine(Coinhiveが公開した許可を求めるタイプ,オプトイン式のマイニングスクリプト) |
+| 10/20    | GigazineがThe Chromium Projectがマイニングスクリプトを許可制にするかどうかの議論をしているという記事を公開 |
+| 10月下旬 | モロさん、Coinhiveに関しての指摘ツイートを受ける             |
+| 11月上旬 | モロさん、Coinhiveをサイトから削除                           |
+| 11/1     | 某有名ブロガー、Coinhive後発のCoinlab(オプトイン式のマイニングスクリプト)を設置 |
+| 11/8     | GigazineがCoinhive後発のInwemo(オプトイン式のマイニングスクリプト)を紹介 |
+| 12/10    | 日経電子版にて、マイニングスクリプトの違法性が初めて指摘された記事「[仮想通貨で不正サイト　『採掘』を無断で手伝わせる](https://www.nikkei.com/article/DGXMZO24462980Z01C17A2SHA000/) 」が公開 |
+| 12/21    | Operaのβ版がマイニングスクリプトのブロックを開始             |
+|          |                                                              |
+|          | (編集途中であるので、項目が追加される可能性もあります)       |
+
+
+
+### 2018
+
+| 日付    | 起こったこと                                                 |
+| ------- | ------------------------------------------------------------ |
+| 2月上旬 | モロさん、家宅捜索を受ける                                   |
+| 5/19    | 高木先生、日記「[緊急周知 Coinhive使用を不正指令電磁的記録供用の罪にしてはいけない](https://takagi-hiromitsu.jp/diary/20180519.html)」を公開 |
+| 6/9     | 読売新聞朝刊解説面にて高木浩光先生のコメントが載った記事が掲載される |
+| 6/10    | 高木先生、日記「[懸念されていた濫用がついに始まった刑法19章の2『不正指令電磁的記録に関する罪』](https://takagi-hiromitsu.jp/diary/20180610.html)」を公開 |
+| 6/14    | 警察庁、「[仮想通貨を採掘するツール（マイニングツール）に関する注意喚起](https://www.npa.go.jp/cyber/policy/180614_2.html)」を公開 |
+| 6/12    | モロさん、「[仮想通貨マイニング（Coinhive）で家宅捜索を受けた話](https://doocts.com/3403)」を公開 |
+| 6/17    | 高木先生、日記「[魔女狩り商法に翻弄された田舎警察 Coinhive事件 大本営報道はまさに現代の魔女狩りだ](https://takagi-hiromitsu.jp/diary/20180617.html)」を公開 |
 
 
 
 
 
+### 2019
 
+| 日付 | 起こったこと                                              |
+| ---- | --------------------------------------------------------- |
+| 1/9  | モロさんのCoinhive裁判、第一回公判                        |
+| 1/15 | モロさんのCoinhive裁判、第二回公判(高木浩光先生 証人尋問) |
+| 1/17 | モロさんのCoinhive裁判、第三回公判(モロさん、被告人質問)  |
+
+
+
+#### 参考までに
+
+
+Coinhive後発のInwemo, Coinlab, Crypto root等の多くは既にサービスを終了している事が多く、アーカイブも多くは残されていない為、今からその機能について調査する事は難しい。
+
+
+
+
+
+## Coinhiveの機能やウェブサイトに関しての推移
+
+### 2017
+
+| 日付  | 起こったこと                                                 |
+| ----- | ------------------------------------------------------------ |
+| 9/14  | Coinhive公開、この時点ではJavaScript Miner, UI Miner, Captchaのみ |
+| 9/15  | Internet Archive上に残された、最古のCoinhiveサイト(coin-hive.com)の[アーカイブ](https://web.archive.org/web/20170915182847/http://coin-hive.com/) |
+| 9/23  | coin-hive.com上から、A Real World Use Case, About Usの2項目や、テスト中・実験などの表現が削除された。ブログが追加された。[アーカイブ](https://web.archive.org/web/20170923162840/https://coin-hive.com/) |
+| 9/25  | スペルミスの修正                                             |
+| 9/28  | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　^1 |
+| 9/29  | httpでアクセスした際httpsへのリダイレクトされるようになる    |
+| 10/7  | フッターに変化、2017 coinhive.comだったものが2017 coinhiveになり、項目の並びが変わった上、Report Abuse(悪用の報告)が追加される。[アーカイブ](https://web.archive.org/web/20171007040629/https://coinhive.com/) |
+| 10/8  | See how we successfully use it on a community site. という文が削除される。 |
+| 10/16 | AuthedMineが追加されるも、トップページには一切の変化なし(まだ確認していないがdocumentationページでは1項目増えているはず) |
+|       |                                                              |
+|       | (2017/10/21までの, coin-hive.com coinhive.comトップページのみ調査済) |
+
+
+
+### 2018
+
+| 日付 | 起こったこと |
+| ---- | ------------ |
+|      |              |
+|      |              |
+|      |              |
+
+
+
+
+
+Internet Archiveに関しては過去の記録間での差分を確認し、日々変化する日時やモネロのレート、得られる収益の参考値以外は上の図に反映している
+
+^1 当時どこかでcoin-hive.comはもう長くサポートしないから、スクリプト内のURLをcoinhive.comに書き換えるように という旨のお知らせを見かけたが、あれはアーカイブには残らないログイン後の画面にあったお知らせだったのか?
+
+(現在はまだ10/21以前のトップページ(coin-hive.com, coinhive.com)以外は調査していないので、更に後もしくは他ページでこの内容が書いてある可能性もある)
 
 
 
