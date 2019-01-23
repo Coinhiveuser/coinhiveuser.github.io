@@ -75,7 +75,7 @@ Coinhive後発のInwemo, Coinlab, Crypto root等の多くは既にサービス�
 | 9/15  | Internet Archive上に残された、最古のCoinhiveサイト(coin-hive.com)の[アーカイブ](https://web.archive.org/web/20170915182847/http://coin-hive.com/) |
 | 9/23  | coin-hive.com上から、A Real World Use Case, About Usの2項目や、テスト中・実験などの表現が削除された。ブログが追加された。[アーカイブ](https://web.archive.org/web/20170923162840/https://coin-hive.com/) |
 | 9/25  | スペルミスの修正                                             |
-| 9/28  | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　[*1](#1) |
+| 9/28  | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　[*1](*1) |
 | 9/29  | httpでアクセスした際httpsへのリダイレクトされるようになる    |
 | 10/7  | フッターに変化、2017 coinhive.comだったものが2017 coinhiveになり、項目の並びが変わった上、Report Abuse(悪用の報告)が追加される。[アーカイブ](https://web.archive.org/web/20171007040629/https://coinhive.com/) |
 | 10/8  | See how we successfully use it on a community site. という文が削除される。 |
@@ -99,9 +99,11 @@ Coinhive後発のInwemo, Coinlab, Crypto root等の多くは既にサービス�
 
 Internet Archiveに関しては過去の記録間での差分を確認し、日々変化する日時やモネロのレート、得られる収益の参考値以外は上の図に反映している
 
-(現在はまだ10/21以前のトップページ(coin-hive.com, coinhive.com)以外は調査していないので、更に後もしくは他ページでこの内容が書いてある可能性もある)
 
-<a name="#1"></a>*1: 当時どこかでcoin-hive.comはもう長くサポートしないから、スクリプト内のURLをcoinhive.comに書き換えるように という旨のお知らせを見かけたが、あれはアーカイブには残らないログイン後の画面にあったお知らせだったのか?
+
+<a name="*1"></a>*1: 当時どこかでcoin-hive.comはもう長くサポートしないから、スクリプト内のURLをcoinhive.comに書き換えるように という旨のお知らせを見かけたが、あれはアーカイブには残らないログイン後の画面にあったお知らせだったのか?
+
+(現在はまだ10/21以前のトップページ(coin-hive.com, coinhive.com)以外は調査していないので、更に後もしくは他ページでこの内容が書いてある可能性もある)
 
 <br/>
 
