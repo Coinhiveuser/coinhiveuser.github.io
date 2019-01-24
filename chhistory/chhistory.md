@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Coinhive年表
 ---
@@ -17,6 +17,7 @@ title: Coinhive年表
 | 9/20     | GigazineがThe Pirate BayのCoinhiveについて取り上げた記事を公開 |
 | 9月下旬  | モロさんのCoinhive導入                                       |
 | 9/22     | モロさん、Coinhiveを導入してみた的な記事を公開(現在は削除済) |
+| 9/23     | 米CBSのSHOWTIMEウェブサイトにCoinhiveが設置された            |
 | 9/24     | Ublockのresource-abuse.txtにはこの日時点で既にブロックリストへの掲載がなされていた([参考](https://twitter.com/280blocker/status/1084755700041928704)) |
 | 同日     | Slashdot(スラド)の方でCoinhiveが話題となる                   |
 | 10/8     | 某有名ブロガーがCoinhive設置                                 |
@@ -25,10 +26,10 @@ title: Coinhive年表
 | 10/20    | GigazineがThe Chromium Projectがマイニングスクリプトを許可制にするかどうかの議論をしているという記事を公開 |
 | 10月下旬 | モロさん、Coinhiveに関しての指摘ツイートを受ける             |
 | 11月上旬 | モロさん、Coinhiveをサイトから削除                           |
-| 11/1     | 某有名ブロガー、Coinhive後発のCoinlab(オプトイン式のマイニングスクリプト)を設置 |
+| 11/1     | 某有名ブロガー、Coinhive後発のCoinlab(オプトイン式のマイニングスクリプト)を設置。ただし「いいえ」を選択してもマイニングがされる物だった(これは[Coinlab側の問題](https://twitter.com/coinlab_/status/925489344533512192))為炎上 |
 | 11/8     | GigazineがCoinhive後発のInwemo(オプトイン式のマイニングスクリプト)を紹介 |
 | 12/10    | 日経電子版にて、マイニングスクリプトの違法性が初めて指摘された記事「[仮想通貨で不正サイト　『採掘』を無断で手伝わせる](https://www.nikkei.com/article/DGXMZO24462980Z01C17A2SHA000/) 」が公開 |
-| 12/21    | Operaのβ版がマイニングスクリプトのブロックを開始             |
+| 12/21    | Operaのβ版がマイニングスクリプトのブロックを開始            |
 |          |                                                              |
 |          | (編集途中であるので、項目が追加される可能性もあります)       |
 
@@ -62,6 +63,7 @@ title: Coinhive年表
 
 
 Coinhive後発のInwemo(2018/4/2までにサービス終了), Coinlab(2018/2/10にサービス終了), Crypto-Loot(現在も稼働中), ProjectPoi(サービス終了)等の多くは既にウェブサイトを閉鎖・サービスを終了しており、アーカイブも多くは残されていない為、今からその機能について調査する事は難しい。
+
 
 <br/>
 
