@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Coinhive年表
 ---
@@ -18,13 +18,13 @@ title: Coinhive年表
 | 9月下旬  | モロさんのCoinhive導入                                       |
 | 9/22     | モロさん、Coinhiveを導入してみた的な記事を公開(現在は削除済) |
 | 9/23     | 米CBSのSHOWTIMEウェブサイトにCoinhiveが設置された            |
-| 同日     | BleepingComputerからCoinhiveの悪用に関する記事が出る[(英語記事)](https://www.bleepingcomputer.com/news/security/coinhive-is-rapidly-becoming-a-favorite-tool-among-malware-devs/) |
+| 同日     | BleepingComputerからCoinhiveの悪用に関する記事が出る([英語記事](https://www.bleepingcomputer.com/news/security/coinhive-is-rapidly-becoming-a-favorite-tool-among-malware-devs/)) |
 | 9/24     | Ublockのresource-abuse.txtにはこの日時点で既にブロックリストへの掲載がなされていた([参考](https://twitter.com/280blocker/status/1084755700041928704)) |
 | 同日     | Slashdot(スラド)の方でCoinhiveが話題となる                   |
 | 10/8     | 某有名ブロガーがCoinhive設置                                 |
 | 10/11    | 某有名ブロガーの件でCoinhiveが話題となり、ITmediaがCoinhiveについての記事公開 |
 | 10/13    | Politifactウェブサイトが改ざんされCoinhiveが埋め込まれる。大手サイトが改ざんされCoinhiveを埋め込まれたことを公式に認めた最初の例 |
-| 10/16    | AuthedMine(Coinhiveが公開した許可を求めるタイプ,オプトイン式のマイニングスクリプト) |
+| 10/16    | AuthedMine(Coinhiveが公開した許可を求めるタイプ,オプトイン式のマイニングスクリプト)が公開される |
 | 10月中旬 | 他人のウェブサイトを改ざんしCoinhive等を埋め込む攻撃であるCryptojackingが度々報道されるようになる |
 | 10/20    | GigazineがThe Chromium Projectがマイニングスクリプトを許可制にするかどうかの議論をしているという記事を公開 |
 | 10月下旬 | モロさん、Coinhiveに関しての指摘ツイートを受ける             |
@@ -32,9 +32,9 @@ title: Coinhive年表
 | 11/1     | 某有名ブロガー、Coinhive後発のCoinlab(オプトイン式のマイニングスクリプト)を設置。ただし「いいえ」を選択してもマイニングがされる物だった(これは[Coinlab側の問題](https://twitter.com/coinlab_/status/925489344533512192))為炎上 |
 | 11/8     | GigazineがCoinhive後発のInwemo(オプトイン式のマイニングスクリプト)を紹介 |
 | 12/10    | 日経電子版にて、マイニングスクリプトの違法性が初めて指摘された記事「[仮想通貨で不正サイト　『採掘』を無断で手伝わせる](https://www.nikkei.com/article/DGXMZO24462980Z01C17A2SHA000/) 」が公開 |
-| 12/21    | Operaのβ版がマイニングスクリプトのブロックを開始            |
+| 12/21    | Operaのβ版がマイニングスクリプトのブロックを開始             |
 |          |                                                              |
-|          | (編集途中であるので、項目が追加される可能性もあります)       |
+|          | (編集途中であるので、項目は追加される可能性があります)       |
 
 <br/>
 
@@ -67,8 +67,7 @@ title: Coinhive年表
 
 Coinhive後発のInwemo(2018/4/2までにサービス終了), Coinlab(2018/2/10にサービス終了), Crypto-Loot(現在も稼働中), ProjectPoi(サービス終了)等の多くは既にウェブサイトを閉鎖・サービスを終了しており、アーカイブも多くは残されていない為、今からその機能について調査する事は難しい。
 
-
-<a name="*1"></a>*1: The Pirate Bayのblogでの「広告とCPUの一部を提供するのとどちらが良いか」との問いかけに対しては「広告が減るなら許容する」とのコメントの方が多かった[(参考)](https://twitter.com/kitagawa_takuji/status/1088140340240932864)
+<a name="*1"></a>*1: The Pirate Bayのblogでの「広告とCPUの一部を提供するのとどちらが良いか」との問いかけに対しては「広告が減るなら許容する」とのコメントの方が多かった([参考](https://twitter.com/kitagawa_takuji/status/1088140340240932864))
 
 <br/>
 
