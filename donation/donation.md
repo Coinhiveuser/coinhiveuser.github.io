@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 寄付
 ---
@@ -15,7 +15,7 @@ title: 寄付
 
 お問い合わせは
 
-VHGad3WzZolyYx@protonmail.com
+[VHGad3WzZolyYx@protonmail.com](mailto:VHGad3WzZolyYx@protonmail.com)
 
 又は
 
