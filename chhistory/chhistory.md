@@ -12,7 +12,7 @@ title: Coinhive年表
 | 日付     | 起こったこと                                                 |
 | -------- | ------------------------------------------------------------ |
 | 9/14     | Coinhive公開 (coin-hive.com)                                 |
-| 9/16     | The Pirate BayがCoinhiveを設置 ([＊1](1))                    |
+| 9/16     | The Pirate BayがCoinhiveを設置 ([*1](c1))                    |
 | 9/18     | 広告ブロックフィルタリストであるadblock-nocoin-listがCoinhiveをブロック対象に追加([参考](https://twitter.com/280blocker/status/1084755700041928704)) |
 | 9/20     | GigazineがThe Pirate BayのCoinhiveについて取り上げた記事を公開 |
 | 9月下旬  | モロさんのCoinhive導入                                       |
@@ -67,7 +67,7 @@ title: Coinhive年表
 
 Coinhive後発のInwemo(2018/4/2までにサービス終了), Coinlab(2018/2/10にサービス終了), Crypto-Loot(現在も稼働中), ProjectPoi(サービス終了)等の多くは既にウェブサイトを閉鎖・サービスを終了しており、アーカイブも多くは残されていない為、今からその機能について調査する事は難しい。
 
-<a name="1">
+<a name="c1">
 
 ＊1 : The Pirate Bayのblogでの「広告とCPUの一部を提供するのとどちらが良いか」との問いかけに対しては「広告が減るなら許容する」とのコメントの方が多かった([参考](https://twitter.com/kitagawa_takuji/status/1088140340240932864))
 
@@ -89,14 +89,13 @@ Coinhive後発のInwemo(2018/4/2までにサービス終了), Coinlab(2018/2/10�
 | 9/15               | Internet Archive上に残された、最古のCoinhiveサイト(coin-hive.com)の[アーカイブ](https://web.archive.org/web/20170915182847/http://coin-hive.com/) |
 | 9/23               | coin-hive.com上から、A Real World Use Case, About Usの2項目や、テスト中・実験などの表現が削除された。ブログが追加された。[アーカイブ](https://web.archive.org/web/20170923162840/https://coin-hive.com/) |
 | 9/25               | スペルミスの修正                                             |
-| 9/28               | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　([＊2](2)) |
+| 9/28               | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　([*2](c2)) |
 | 9/29               | httpでアクセスした際httpsへのリダイレクトされるようになる    |
 | 10/7               | フッターに変化、2017 coinhive.comだったものが2017 coinhiveになり、項目の並びが変わった上、Report Abuse(悪用の報告)が追加される。[アーカイブ](https://web.archive.org/web/20171007040629/https://coinhive.com/) |
 | 10/8               | See how we successfully use it on a community site. という文が削除される |
 | 10/16              | AuthedMineが追加されるも、トップページには一切の変化なし(まだ確認していないがdocumentationページでは1項目増えているはず) |
-| 10/28~11/1のどこか | FAQページとそれへのリンクが追加される。一部の文が変更される ([＊3](3)) [アーカイブ](https://web.archive.org/web/20171001180427/http://coinhive.com/) |
+| 10/28~11/1のどこか | FAQページとそれへのリンクが追加される。一部の文が変更される ([*3](c3)) [アーカイブ](https://web.archive.org/web/20171001180427/http://coinhive.com/) |
 | 12/12              | ヘッダーのcoinhive, documentation, login, signupの頭文字がそれぞれ大文字に変わる |
-
 
 <br/>
 
@@ -105,7 +104,7 @@ Coinhive後発のInwemo(2018/4/2までにサービス終了), Coinlab(2018/2/10�
 | 日付              | 起こったこと                                                 |
 | ----------------- | ------------------------------------------------------------ |
 | 1/7               | CoinhiveのJavaScriptプログラム説明、サイトキー(アカウントとマイナーを紐づける為のキー)を入れる部分の説明が`'<site-key>'`から`'SITE_KEY'`になる。 |
-| 1/13~1/15のどこか | フッターのBlogへのリンク部がBlog / Twitterとなり、twitterアカウントへのリンクが追加される ([＊4](4)) |
+| 1/13~1/15のどこか | フッターのBlogへのリンク部がBlog / Twitterとなり、twitterアカウントへのリンクが追加される ([*4](c4)) |
 | 3/23              | フッターにLegal Informationへのリンクが追加される。          |
 |                   |                                                              |
 |                   | (2018/3/31までの, coin-hive.com coinhive.comトップページのみ調査済) |
@@ -117,15 +116,15 @@ Coinhive後発のInwemo(2018/4/2までにサービス終了), Coinlab(2018/2/10�
 
 Internet Archiveに関しては過去の記録間での差分を確認し、日々変化する日時やモネロのレート、得られる収益の参考値以外は上の図に反映している
 
+<br/>
 
-
-<a name="2">
+<a name="c2">
 
 ＊2 : 当時どこかでcoin-hive.comはもう長くサポートしないから、スクリプト内のURLをcoinhive.comに書き換えるように という旨のお知らせを見かけたが、あれはアーカイブには残らないログイン後の画面にあったお知らせだったのか?
 
 (現在はまだ2018/3/31以前のトップページ(coin-hive.com, coinhive.com)以外は調査していないので、更に後もしくは他ページでこの内容が書いてある可能性もある)
 
-<a name="3">
+<a name="c3">
 
 ＊3 : 柔軟性のあるJavaScript APIについての説明、
 
@@ -135,7 +134,7 @@ The JavaScript API lets you tie solved hashes to user accounts on your site, giv
 
 The JavaScript API let's you associate solved hashes to specific users on your site. Users can solve hashes on your behalf in return for benefits you provide. に変更された。
 
-<a name="4">
+<a name="c4">
 
 ＊4: [@coinhive_com](https://twitter.com/coinhive_com)のtwitterアカウントの[初ツイート](https://twitter.com/coinhive_com/status/963719219983605770)が2018/2/14である為、この日付は2/14と推測される。
 
