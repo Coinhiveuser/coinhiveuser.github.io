@@ -12,7 +12,7 @@ title: Coinhive年表
 | 日付     | 起こったこと                                                 |
 | -------- | ------------------------------------------------------------ |
 | 9/14     | Coinhive公開 (coin-hive.com)                                 |
-| 9/16     | The Pirate BayがCoinhiveを設置 ([*1](c1))                    |
+| 9/16     | The Pirate BayがCoinhiveを設置 ([*1](https://coinhiveuser.github.io/chhistory/chhistory.html#c1)) |
 | 9/18     | 広告ブロックフィルタリストであるadblock-nocoin-listがCoinhiveをブロック対象に追加([参考](https://twitter.com/280blocker/status/1084755700041928704)) |
 | 9/20     | GigazineがThe Pirate BayのCoinhiveについて取り上げた記事を公開 |
 | 9月下旬  | モロさんのCoinhive導入                                       |
@@ -89,12 +89,12 @@ Coinhive後発のInwemo(2018/4/2までにサービス終了), Coinlab(2018/2/10�
 | 9/15               | Internet Archive上に残された、最古のCoinhiveサイト(coin-hive.com)の[アーカイブ](https://web.archive.org/web/20170915182847/http://coin-hive.com/) |
 | 9/23               | coin-hive.com上から、A Real World Use Case, About Usの2項目や、テスト中・実験などの表現が削除された。ブログが追加された。[アーカイブ](https://web.archive.org/web/20170923162840/https://coin-hive.com/) |
 | 9/25               | スペルミスの修正                                             |
-| 9/28               | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　([*2](c2)) |
+| 9/28               | スクリプト内やフッターにあるURLがcoin-hive.comからcoinhive.comになる　([*2](https://coinhiveuser.github.io/chhistory/chhistory.html#c2)) |
 | 9/29               | httpでアクセスした際httpsへのリダイレクトされるようになる    |
 | 10/7               | フッターに変化、2017 coinhive.comだったものが2017 coinhiveになり、項目の並びが変わった上、Report Abuse(悪用の報告)が追加される。[アーカイブ](https://web.archive.org/web/20171007040629/https://coinhive.com/) |
 | 10/8               | See how we successfully use it on a community site. という文が削除される |
 | 10/16              | AuthedMineが追加されるも、トップページには一切の変化なし(まだ確認していないがdocumentationページでは1項目増えているはず) |
-| 10/28~11/1のどこか | FAQページとそれへのリンクが追加される。一部の文が変更される ([*3](c3)) [アーカイブ](https://web.archive.org/web/20171001180427/http://coinhive.com/) |
+| 10/28~11/1のどこか | FAQページとそれへのリンクが追加される。一部の文が変更される ([*3](https://coinhiveuser.github.io/chhistory/chhistory.html#c3)) [アーカイブ](https://web.archive.org/web/20171001180427/http://coinhive.com/) |
 | 12/12              | ヘッダーのcoinhive, documentation, login, signupの頭文字がそれぞれ大文字に変わる |
 
 <br/>
@@ -104,7 +104,7 @@ Coinhive後発のInwemo(2018/4/2までにサービス終了), Coinlab(2018/2/10�
 | 日付              | 起こったこと                                                 |
 | ----------------- | ------------------------------------------------------------ |
 | 1/7               | CoinhiveのJavaScriptプログラム説明、サイトキー(アカウントとマイナーを紐づける為のキー)を入れる部分の説明が`'<site-key>'`から`'SITE_KEY'`になる。 |
-| 1/13~1/15のどこか | フッターのBlogへのリンク部がBlog / Twitterとなり、twitterアカウントへのリンクが追加される ([*4](c4)) |
+| 1/13~1/15のどこか | フッターのBlogへのリンク部がBlog / Twitterとなり、twitterアカウントへのリンクが追加される ([*4](https://coinhiveuser.github.io/chhistory/chhistory.html#c4)) |
 | 3/23              | フッターにLegal Informationへのリンクが追加される。          |
 |                   |                                                              |
 |                   | (2018/3/31までの, coin-hive.com coinhive.comトップページのみ調査済) |
