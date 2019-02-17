@@ -13,13 +13,13 @@ title: 傍聴記録
 
 [第二回公判(高木浩光先生 証人尋問)](https://coinhiveuser.github.io/chtrialreport/reports/2.html)
 
+[第三回公判(モロさん 被告人質問)](https://coinhiveuser.github.io/chtrialreport/reports/3.html)
+
 <br/>
 
 * 記録未公開(編集中)
 
-第三回公判(モロさん 被告人質問)
-
-
+なし
 
 <br/>  
 
@@ -31,6 +31,8 @@ title: 傍聴記録
 第四回公判(論告弁論, 最終弁論)
 
   <br/>
+
+(未定) 判決日
 
   <br/>
 
