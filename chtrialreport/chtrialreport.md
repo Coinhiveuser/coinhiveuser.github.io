@@ -15,26 +15,22 @@ title: 傍聴記録
 
 [第三回公判(モロさん 被告人質問)](https://coinhiveuser.github.io/chtrialreport/reports/3.html)
 
+[第四回公判(論告弁論, 最終弁論)](https://coinhiveuser.github.io/chtrialreport/reports/4.html)
+
 <br/>
 
 * 記録未公開(編集中)
 
 なし
 
-<br/>  
+<br/>
 
 
 * 予定
 
-2/18 10:00~ 横浜地裁 第401号法廷にて
+3/27 (水) 午前10:00~ 401号法廷
 
-第四回公判(論告弁論, 最終弁論)
-
-  <br/>
-
-(未定) 判決日
-
-  <br/>
+<br/>
 
 ### 傍聴記録作成への協力のお願い
 
