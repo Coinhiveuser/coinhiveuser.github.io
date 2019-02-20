@@ -5,7 +5,9 @@ title: 寄付
 
 # 寄付について
 
-傍聴記録作成の為知人らへ出すバイト代、私が傍聴へ行く交通費、その他Coinhive関連の活動に掛かる費用は現在自分の財布から捻出しておりますが、学生の為費用負担が大きくなっています。([参考](https://coinhiveuser.github.io/donation/accounts/record.html))
+傍聴記録作成の為知人らへ出すバイト代、私が傍聴へ行く交通費、その他Coinhive関連の活動に掛かる費用は現在自分の財布から捻出しておりますが、学生の為費用負担が大きくなっています。
+
+参考: ([Coinhive傍聴記録関連での出費等](https://coinhiveuser.github.io/donation/accounts/record.html))
 
 負担低減の為少額の寄付を募っております。
 
