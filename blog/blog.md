@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+description: いわゆるCoinhive事件で捜査された当事者が書く、この話題に関しての調査・感想をまとめたブログ
 ---
 
 # Blog

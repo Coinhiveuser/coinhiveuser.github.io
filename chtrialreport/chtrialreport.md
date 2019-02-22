@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 傍聴記録
+title: Coinhive裁判傍聴記録
+description: いわゆるCoinhive事件の裁判傍聴メモをまとめたレポートです
 ---
 
 # Coinhive裁判傍聴レポート
@@ -28,7 +29,7 @@ title: 傍聴記録
 
 * 予定
 
-3/27 (水) 午前10:00~ 401号法廷
+判決日 3/27 (水) 午前10:00~ 401号法廷
 
 <br/>
 
