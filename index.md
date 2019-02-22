@@ -2,6 +2,7 @@
 layout: default
 title: Coinhiveuserの記録
 description: いわゆるCoinhive事件関連の調査・傍聴記録と自分の件についてのお話
+lang: ja_JP
 ---
 
 # 元Coinhiveユーザー@Coinhiveuser の記録  

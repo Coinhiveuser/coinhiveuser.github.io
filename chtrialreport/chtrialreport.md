@@ -2,6 +2,7 @@
 layout: default
 title: Coinhive裁判傍聴記録
 description: いわゆるCoinhive事件の裁判傍聴メモをまとめたレポートです
+lang: ja_JP
 ---
 
 # Coinhive裁判傍聴レポート

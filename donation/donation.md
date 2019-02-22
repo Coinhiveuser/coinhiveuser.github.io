@@ -2,6 +2,7 @@
 layout: default
 title: 寄付
 description: いわゆるCoinhive事件の傍聴記録作成活動への寄付を募っています。
+lang: ja_JP
 ---
 
 # 寄付について
