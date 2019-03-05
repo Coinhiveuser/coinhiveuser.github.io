@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Contact
 ---
@@ -12,3 +12,4 @@ VHGad3WzZolyYx@protonmail.com
 又は
 
 [twitter:@coinhiveuser](https://twitter.com/coinhiveuser) のDMまでお願いいたします。
+
