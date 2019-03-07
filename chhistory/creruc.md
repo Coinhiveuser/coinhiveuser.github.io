@@ -21,7 +21,7 @@ description: 不正指令電磁的記録に関する法律 の英訳(参考)
 以下
 
 ```
-Penal Code
+Criminal law
 
 Chapter XIX-2 Crimes Related to Electromagnetic Records of Unauthorized Commands
 
