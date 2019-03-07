@@ -30,7 +30,7 @@ Chapter XIX-2 Crimes Related to Electromagnetic Records of Unauthorized Commands
 Article 168-2 (1) 
 A person who, without justifiable grounds, makes or provides following electromagnetic records or other records for the purpose of executing on another person's computer shall be punished by imprisonment with work for not more than 3 years or a fine of not more than 500,000 yen.
 
-1. An Electromagnetic record that does not operate in accordance with another person's intention, or gives unauthorized commands which act against their intention, when another person uses a computer.
+1. An Electromagnetic record that does not operate in accordance with the others'  intention, or gives unauthorized commands which act against their intention, when the others use a computer.
 2. In addition to preceding issue, electromagnetic records or other records that unauthorized commands in the preceding issue is written.
 
 (2) The same shall apply to a person who, without justifiable grounds, execute electromagnetic records which of item 1. of the preceding paragraph on another person's computer.
