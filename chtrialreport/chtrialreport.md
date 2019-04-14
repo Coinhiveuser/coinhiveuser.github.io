@@ -19,18 +19,20 @@ lang: ja_JP
 
 [第四回公判(論告弁論, 最終弁論)](https://coinhiveuser.github.io/chtrialreport/reports/4.html)
 
+[判決日 記者会見](https://coinhiveuser.github.io/chtrialreport/reports/psc.html)
+
 <br/>
 
 * 記録未公開(編集中)
 
-なし
+判決日 3/27 (水) 午前10:00~ 401号法廷
 
 <br/>
 
 
 * 予定
 
-判決日 3/27 (水) 午前10:00~ 401号法廷
+なし
 
 <br/>
 
