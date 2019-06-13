@@ -19,20 +19,22 @@ lang: ja_JP
 
 [第四回公判(論告弁論, 最終弁論)](https://coinhiveuser.github.io/chtrialreport/reports/4.html)
 
+[判決 ](https://twitter.com/stdaux/status/1117747164094951425)(モロさんの弁護人である平野敬弁護士が判決文を公開されましたので、そのツイートへのリンクになります。)
+
 [判決日 記者会見](https://coinhiveuser.github.io/chtrialreport/reports/psc.html)
 
 <br/>
 
 * 記録未公開(編集中)
 
-判決日 3/27 (水) 午前10:00~ 401号法廷
+なし
 
 <br/>
 
 
 * 予定
 
-なし
+第二審(高裁) 第一回公判
 
 <br/>
 
