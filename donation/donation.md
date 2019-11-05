@@ -45,14 +45,4 @@ Amazonギフト券は上記のメールアドレス、Kyashは<a class="kyash-bu
 
 <br/>
 
-(モロさんは、現段階ではこの件に関しての寄付を頂かない とされておられますので、それに習い寄付等は断りたい所なのですが、今年度の収入(小遣い・お年玉)の4割以上を持っていかれてるのは少し負担が…
-
-上記の点もあるので、寄付された金額の合計が今回の件で利用した金額を少し超えない程度になった時点でこのページごと消し、それ以降の寄付は断らせていただくこととします。)
-
-
-
-
-
-
-
 (*1) このボタンは、[@satetsu888](https://twitter.com/satetsu888 )さんによるKyash-button ([description](https://satetsu888.github.io/kyash-button/), [medium](https://medium.com/@satetsu888/kyash%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6web%E3%81%A7%E3%81%8A%E9%87%91%E3%82%92%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8Bkyash-button%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-15c62bfbfd3)) を利用しています。
