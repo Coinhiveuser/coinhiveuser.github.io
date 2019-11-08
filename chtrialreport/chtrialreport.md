@@ -38,6 +38,19 @@ lang: ja_JP
 
 <br/>
 
+
+* その他関連する記録
+
+検察側の控訴趣意書 (平野弁護士による公開ツイートへの[リンク](https://twitter.com/stdaux/status/1190532849037803520))
+
+弁護側の控訴答弁書 (平野弁護士による公開ツイートへの[リンク](https://twitter.com/stdaux/status/1190532945968189440))
+
+平野弁護士によるJILIS講演の資料(平野弁護士による公開ツイートへの[リンク](https://twitter.com/stdaux/status/1190536837313351680))
+
+<br/>
+
+<br/>
+
 ### 傍聴記録作成への協力のお願い
 
 Coinhiveに関する裁判を当日傍聴された/される方で、当記録の修正/訂正へ協力して頂ける方がおられましたら、[twitter@coinhiveuser](https://twitter.com/coinhiveuser)までご連絡下さい。  
