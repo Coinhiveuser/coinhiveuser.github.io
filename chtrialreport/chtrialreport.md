@@ -25,6 +25,8 @@ lang: ja_JP
 
 <br/>
 
+[控訴審 第一回公判](https://coinhiveuser.github.io/chtrialreport/reports/2-1.html)
+
 * 記録未公開(編集中)
 
 なし
@@ -34,7 +36,7 @@ lang: ja_JP
 
 * 予定
 
-第二審(高裁) 第一回公判
+第二審(高裁) 第二回公判
 
 <br/>
 
